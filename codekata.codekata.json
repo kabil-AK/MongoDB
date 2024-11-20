@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "60a778a0734d1d6fbdaf6589"
+  },
+  "user_id": {
+    "$oid": "60a778a0734d1d6fbdaf6571"
+  },
+  "problems_solved": 45
+},
+{
+  "_id": {
+    "$oid": "60a778a0734d1d6fbdaf658a"
+  },
+  "user_id": {
+    "$oid": "60a778a0734d1d6fbdaf6572"
+  },
+  "problems_solved": 35
+}]

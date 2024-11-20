@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "60a778a0734d1d6fbdaf6588"
+  },
+  "company_name": "Tech Corp",
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "students": [
+    {
+      "student_id": {
+        "$oid": "60a778a0734d1d6fbdaf6571"
+      },
+      "status": "Appeared"
+    },
+    {
+      "student_id": {
+        "$oid": "60a778a0734d1d6fbdaf6572"
+      },
+      "status": "Not Appeared"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "60a778a0734d1d6fbdaf6589"
+  },
+  "company_name": "Innovate Ltd.",
+  "date": {
+    "$date": "2020-10-25T00:00:00.000Z"
+  },
+  "students": [
+    {
+      "student_id": {
+        "$oid": "60a778a0734d1d6fbdaf6571"
+      },
+      "status": "Appeared"
+    },
+    {
+      "student_id": {
+        "$oid": "60a778a0734d1d6fbdaf6572"
+      },
+      "status": "Appeared"
+    }
+  ]
+}]

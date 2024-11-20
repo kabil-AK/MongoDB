@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "60a778a0734d1d6fbdaf6580"
+  },
+  "task_name": "JavaScript Quiz",
+  "description": "A quiz on JavaScript basics",
+  "assigned_date": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "due_date": {
+    "$date": "2023-10-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a778a0734d1d6fbdaf6581"
+  },
+  "task_name": "React Practice Task",
+  "description": "A practice task for React fundamentals",
+  "assigned_date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "due_date": {
+    "$date": "2023-10-12T00:00:00.000Z"
+  }
+}]

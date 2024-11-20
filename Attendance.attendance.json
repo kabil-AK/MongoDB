@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "60a778a0734d1d6fbdaf6584"
+  },
+  "user_id": {
+    "$oid": "60a778a0734d1d6fbdaf6571"
+  },
+  "date": {
+    "$date": "2020-10-16T00:00:00.000Z"
+  },
+  "status": "Absent"
+},
+{
+  "_id": {
+    "$oid": "60a778a0734d1d6fbdaf6585"
+  },
+  "user_id": {
+    "$oid": "60a778a0734d1d6fbdaf6572"
+  },
+  "date": {
+    "$date": "2020-10-16T00:00:00.000Z"
+  },
+  "status": "Present"
+}]

@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "60a778a0734d1d6fbdaf6571"
+  },
+  "name": "J D",
+  "email": "jd@gmail.com",
+  "class": "Zen Class 2023",
+  "mentor_id": {
+    "$oid": "60a778a0734d1d6fbdaf6578"
+  },
+  "attendance": [
+    {
+      "date": {
+        "$date": "2020-10-16T00:00:00.000Z"
+      },
+      "status": "Absent"
+    },
+    {
+      "date": {
+        "$date": "2020-10-17T00:00:00.000Z"
+      },
+      "status": "Present"
+    }
+  ],
+  "tasks": [
+    {
+      "task_id": {
+        "$oid": "60a778a0734d1d6fbdaf6580"
+      },
+      "status": "Not Submitted",
+      "submitted_date": {
+        "$date": "2020-10-16T00:00:00.000Z"
+      }
+    }
+  ],
+  "codekata_solved": 120
+},
+{
+  "_id": {
+    "$oid": "60a778a0734d1d6fbdaf6572"
+  },
+  "name": "Virat",
+  "email": "virate@gmail.com",
+  "class": "Zen Class 2023",
+  "mentor_id": {
+    "$oid": "60a778a0734d1d6fbdaf6578"
+  },
+  "attendance": [
+    {
+      "date": {
+        "$date": "2020-10-16T00:00:00.000Z"
+      },
+      "status": "Present"
+    },
+    {
+      "date": {
+        "$date": "2020-10-17T00:00:00.000Z"
+      },
+      "status": "Present"
+    }
+  ],
+  "tasks": [
+    {
+      "task_id": {
+        "$oid": "60a778a0734d1d6fbdaf6581"
+      },
+      "status": "Submitted",
+      "submitted_date": {
+        "$date": "2020-10-17T00:00:00.000Z"
+      }
+    }
+  ],
+  "codekata_solved": 80
+}]

@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "60a778a0734d1d6fbdaf6586"
+  },
+  "topic_name": "JavaScript Basics",
+  "date": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "tasks": [
+    {
+      "task_id": {
+        "$oid": "60a778a0734d1d6fbdaf6580"
+      },
+      "task_name": "JavaScript Quiz",
+      "status": "Pending"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "60a778a0734d1d6fbdaf6587"
+  },
+  "topic_name": "React Fundamentals",
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "tasks": [
+    {
+      "task_id": {
+        "$oid": "60a778a0734d1d6fbdaf6581"
+      },
+      "task_name": "React Practice Task",
+      "status": "Completed"
+    }
+  ]
+}]

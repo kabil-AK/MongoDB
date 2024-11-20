@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "60a778a0734d1d6fbdaf6578"
+  },
+  "name": "Mentor Ajith",
+  "mentees": [
+    {
+      "user_id": {
+        "$oid": "60a778a0734d1d6fbdaf6571"
+      }
+    },
+    {
+      "user_id": {
+        "$oid": "60a778a0734d1d6fbdaf6572"
+      }
+    }
+  ],
+  "mentees_count": 20
+},
+{
+  "_id": {
+    "$oid": "60a778a0734d1d6fbdaf6579"
+  },
+  "name": "Mentor Vijay",
+  "mentees": [
+    {
+      "user_id": {
+        "$oid": "60a778a0734d1d6fbdaf6572"
+      }
+    }
+  ],
+  "mentees_count": 10
+}]
